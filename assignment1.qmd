@@ -1,0 +1,28 @@
+---
+title: "Assignment 1"
+author: "Miracle Ephraim""
+format: pdf:
+  output-file
+---
+
+```{r}
+
+#include packages here
+
+```
+
+
+### Loading dataset
+
+``` {r}
+#\ o
+```
+
+### Examining Data
+
+```{r}
+
+head("homework1/ma_data_2015.csv")
+
+
+```
